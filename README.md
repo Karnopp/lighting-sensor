@@ -1,3 +1,3 @@
 # lighting-sensor
 
-![Imgur](https://imgur.com/0GeQrKo.gif)
+![Imgur](https://imgur.com/CAitEVV.gif)
