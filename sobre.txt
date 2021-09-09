@@ -1,0 +1,8 @@
+Victor Karnopp Neitzel
+Microcrontolador: atmega328p-u
+Para compilar o código: 
+	$ avr-gcc -Wall -Os -mmcu=atmega328p -o trabalho trabalho.s
+Submeter para o microcontrolador:
+	$ avrdude -b 9600 -p m328p -c usbasp -e -U flash:w:trabalho
+
+Obs: O esquema do circuito está representado na imagem Esquema_Projeto.png
